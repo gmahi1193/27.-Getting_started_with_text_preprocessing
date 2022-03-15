@@ -1,0 +1,1 @@
+This project is for understanding text data preprocessing with using NLTK library.
